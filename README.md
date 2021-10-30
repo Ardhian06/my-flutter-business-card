@@ -1,6 +1,8 @@
 # Mi Card
 A personal business card that I made from following a Online Course tutorial
 
+![App Screenshot](https://github.com/Ardhian06/my-images/blob/main/business_card_flutter.jpg)
+
 ## This App Contain : 
 
 * Stateless Widgets
